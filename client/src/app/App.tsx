@@ -6,8 +6,7 @@ import {
   Navigate,
 } from "react-router-dom";
 
-import "../shared/styles";
-// import HomePage from "../pages/HomePage";
+import "../shared/styles/global.scss";
 
 function App() {
   return (
